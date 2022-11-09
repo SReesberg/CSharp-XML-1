@@ -1,0 +1,7 @@
+C:\Users\stefa\source\repos\ExamPrepExercise9\ExamPrepExercise9\bin\Debug\ExamPrepExercise9.exe.config
+C:\Users\stefa\source\repos\ExamPrepExercise9\ExamPrepExercise9\bin\Debug\ExamPrepExercise9.exe
+C:\Users\stefa\source\repos\ExamPrepExercise9\ExamPrepExercise9\bin\Debug\ExamPrepExercise9.pdb
+C:\Users\stefa\source\repos\ExamPrepExercise9\ExamPrepExercise9\obj\Debug\ExamPrepExercise9.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\ExamPrepExercise9\ExamPrepExercise9\obj\Debug\ExamPrepExercise9.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\ExamPrepExercise9\ExamPrepExercise9\obj\Debug\ExamPrepExercise9.exe
+C:\Users\stefa\source\repos\ExamPrepExercise9\ExamPrepExercise9\obj\Debug\ExamPrepExercise9.pdb

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TheMafiasGrillhouse>
+	<Food id="001">
+		<Name>Burglary Burger</Name>
+		<Desc>100g steak slapped between the eyes of two seeded buns.</Desc>
+		<Price>36.50</Price>
+	</Food>
+
+	<Food id="002">
+		<Name>Broken Ribs Meal</Name>
+		<Desc>Tenderized by the brute strength of our chefs and tainted with spicy sauce.</Desc>
+		<Price>54.90</Price>
+	</Food>
+
+	<Food id="003">
+		<Name>Russian Roulette Combo</Name>
+		<Desc>Meat balls, 50g ribs, and broken chicken legs with a side dish of bread rolls, that are to die for!</Desc>
+		<Price>87.90</Price>
+	</Food>
+
+	<Food id="004">
+		<Name>Shake em up Milkshake</Name>
+		<Desc>Flavoured milkshakes that are chilled to the bone.</Desc>
+		<Price>16.50</Price>
+	</Food>
+
+	<Food id="005">
+		<Name>Stone Cold Cooldrink</Name>
+		<Desc>The freshest cold drink to knock you out stone cold.</Desc>
+		<Price>11.50</Price>
+	</Food>
+</TheMafiasGrillhouse>
